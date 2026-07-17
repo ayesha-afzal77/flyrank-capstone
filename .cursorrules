@@ -1,0 +1,11 @@
+# FlyRank Capstone Project Rules
+
+## Coding Standards
+- Write clean, semantic, and responsive HTML5 and CSS3.
+- Ensure proper use of Flexbox and Grid layouts.
+- Follow a consistent and organized code structure.
+
+## AI Assistant Guidelines
+- Always suggest production-ready, clean code.
+- Prioritize CSS custom properties (variables) for design consistency.
+- Explain structural choices briefly when providing solutions.
